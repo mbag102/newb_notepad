@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Newb Notepad</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_first_screen">Newb Notepad</string>
+    <string name="add_note">Add note</string>
+    <string name="title_activity_add_edit_note">Create Note</string>
+    <string name="save">save</string>
+    <string name="dateFormat">"MM/dd/yyyy hh:mm"</string>
+</resources>
